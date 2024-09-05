@@ -24,7 +24,6 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '16'
-      working-directory: ./devops-practice
 
     - name: Install dependencies
       run: npm install
