@@ -14,25 +14,25 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-      working-directory: devops-practice
+      working-directory: ./devops-practice
 
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '16'
-      working-directory: devops-practice
+      working-directory: ./devops-practice
 
     - name: Install dependencies
       run: npm install
-      working-directory: devops-practice
+      working-directory: ./devops-practice
     
     - name: Build Docker image
       run: docker build -t devops-practice .
-      working-directory: devops-practice
+      working-directory: ./devops-practice
 
     - name: Run tests
       run: npm test
-      working-directory: devops-practice
+      working-directory: ./devops-practice
     
     - name: Run Docker container
       run: docker run -d -p 3000:3000 devops-practice
