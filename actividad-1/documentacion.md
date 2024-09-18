@@ -1,5 +1,28 @@
 DOCUMENTACION DE LA ACTIVIDAD 1:
 
+Preguntas de reflexion:
+1. ¿Por qué surgió la necesidad de DevOps en el desarrollo de software?
+   
+   Surgió debido a que antes los equipos de desarrollo y operaciones trabajaban separados y habia demasiados problemas para que el software funcionara rapido y bien.
+   
+2. Explica cómo la falta de comunicación y coordinación entre los equipos de desarrollo y operaciones en el pasado ha llevado a la creación de DevOps.
+   
+   La creacion de DevOps fue para mejorar la comunicacion del equipo y para que se trabaje junto desde el principio ya que antes los equipos de devs y ops no se coordinaban bien y esto causaba retrasos y errores.
+   
+3. Describe cómo el principio de mejora continua afecta tanto a los aspectostécnicos como culturales de una organización.
+
+   La mejora continua no solo busca mejorar herramientas o procesos sino tambien cambiar la actitud de las personas ya que todos deben estar abiertos a colaborar y aprender.
+   
+4. ¿Qué significa que DevOps no se trata solo de herramientas, individuos o procesos?
+   
+   Significa que no es suficiente con usar buenas herramientas o procesos si es que no hay trabajo en equipo ya que DevOps es mas una forma de trabajar juntos de manera mas efectiva.
+   
+5. Según el texto, ¿cómo contribuyen los equipos autónomos y multifuncionales a una implementación exitosa de DevOps?
+    
+   Contribuyen con habilidades variadas y el poder resolver problemas sin depender de otros lo que agiliza el desarrollo y mejora el flujo de trabajo.
+
+
+   
 En esta actividad se usará una aplicacion web sencilla utilizando Node.js en la cual devolverá un mensaje de "Hello, World!"
 
 Configuracion del entorno: 
