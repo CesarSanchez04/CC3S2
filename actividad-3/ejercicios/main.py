@@ -1,4 +1,4 @@
 def greet():
-    print("Hello from advanced feature")
+    print("Hello from advanced featured")
 
 greet()
