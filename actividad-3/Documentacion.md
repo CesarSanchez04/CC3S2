@@ -50,7 +50,17 @@ EJERCICIOS:
 
 2) Aprender a navegar y manipular el historial de commits usando comandos avanzados de Git
 
-   Primero procedemos a ver el historial detallado de los commits (log):
+   Primero procedemos a ver el historial detallado de los commits:
+   ![image](https://github.com/user-attachments/assets/a83376fa-b92d-4278-b055-e368a4dc21b8)
+
+   ¿Que cambios fueron realizados en cada uno?
+   del ultimo commit podemos ver que el cambio realizado es el cambio en el print de la actividad anterior
+
+   Ahora procedemos a filtrar los commits por autor:
+   ![image](https://github.com/user-attachments/assets/1244a8b5-a0f5-4774-91a1-5d2ab631d42f)
+   
+
+
    
 
    
